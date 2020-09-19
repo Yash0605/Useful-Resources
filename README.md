@@ -12,3 +12,5 @@ CSS Resources -> http://codingheroes.io/resources/
 For icons -> linea.io
 
 Text to speech api -> http://www.voicerss.org/api/
+
+Illustrations: https://undraw.co/illustrations
