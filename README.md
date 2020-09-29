@@ -18,3 +18,5 @@ Illustrations: https://undraw.co/illustrations
 Background Videos: https://coverr.co/
 
 Template for Site: https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation
+
+Lorem Ipsum but for users : https://randomuser.me/
