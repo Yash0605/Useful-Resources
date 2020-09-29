@@ -16,3 +16,5 @@ Text to speech api -> http://www.voicerss.org/api/
 Illustrations: https://undraw.co/illustrations
 
 Background Videos: https://coverr.co/
+
+Template for Site: https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation
