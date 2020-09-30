@@ -22,3 +22,5 @@ Template for Site: https://www.creative-tim.com/learning-lab/tailwind-starter-ki
 Lorem Ipsum but for users : https://randomuser.me/
 
 Animate on scroll: https://michalsnik.github.io/aos/
+
+Loading third party script asynchronously: https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/loading-third-party-javascript
