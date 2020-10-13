@@ -28,3 +28,5 @@ Loading third party script asynchronously: https://developers.google.com/web/fun
 Timing functions for transform in css: https://easings.net/
 
 Color selection tool: https://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF
+
+Test responsiveness in multiple devices: https://sizzy.co/
