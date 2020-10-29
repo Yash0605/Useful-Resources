@@ -32,3 +32,5 @@ Color selection tool: https://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF
 Test responsiveness in multiple devices: https://sizzy.co/
 
 Check whether any feature can be used in a particular browser or not: https://caniuse.com/
+
+Useful resource for css grid : https://css-tricks.com/snippets/css/complete-guide-grid/
