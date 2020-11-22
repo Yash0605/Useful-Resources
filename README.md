@@ -34,3 +34,5 @@ Test responsiveness in multiple devices: https://sizzy.co/
 Check whether any feature can be used in a particular browser or not: https://caniuse.com/
 
 Useful resource for css grid : https://css-tricks.com/snippets/css/complete-guide-grid/
+
+Getting started with react: https://create-react-app.dev/docs/getting-started/
