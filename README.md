@@ -38,3 +38,5 @@ Useful resource for css grid : https://css-tricks.com/snippets/css/complete-guid
 Getting started with react: https://create-react-app.dev/docs/getting-started/
 
 React components: https://reactjs.org/docs/react-component.html
+
+JSON placeholder api: https://jsonplaceholder.typicode.com/users
