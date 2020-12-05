@@ -9,7 +9,7 @@ A collection of repeatable SVG background patterns for you to use on your web pr
 
 CSS Resources -> http://codingheroes.io/resources/
 
-For icons -> linea.io
+For icons -> linea.io || Another one: https://phosphoricons.com/
 
 Text to speech api -> http://www.voicerss.org/api/
 
