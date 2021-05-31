@@ -45,3 +45,7 @@ JSON placeholder api: https://jsonplaceholder.typicode.com/users
 Get new coding fonts: https://devfonts.gafi.dev/
 
 Hashtables vs. Arrays : https://www.kirupa.com/html5/hashtables_vs_arrays.htm
+
+Free artsy illustrations: https://weareskribbl.com/
+
+Landing Pages: https://www.btw.so/marketing/landing-page-examples
